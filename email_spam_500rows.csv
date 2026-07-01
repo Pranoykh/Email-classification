@@ -1,0 +1,501 @@
+email_id,sender,subject_length,has_links,has_images,word_count,exclamation_marks,all_caps_words,urgent_keywords,is_spam
+1,  sister@hotmail.com  ,32,0,0,323,0,4,0,0
+2,  hr@techcorp.com  ,20,0,0,333,3,1,0,0
+3,professor@school.edu,15,0,1,237,2,1,0,0
+4,noreply@github.com,36,1,0,241,2,4,0,0
+5,friend@email.com,44,1,0,291,2,5,0,0
+6,colleague@office.com,38,0,0,319,1,2,0,0
+7,boss@work.com,21,1,1,191,2,2,0,0
+8,noreply@github.com,59,0,0,286,1,1,0,0
+9,professor@school.edu,55,0,1,365,0,1,0,0
+10,sarah@company.com,40,0,1,204,3,3,0,0
+11,sister@hotmail.com,31,1,1,379,3,2,0,0
+12,contact@linkedin.com,23,0,0,370,0,1,0,0
+13,  sister@hotmail.com  ,58,0,1,247,3,4,0,0
+14,friend@email.com,15,0,1,346,2,0,0,0
+15,dad@aol.com,,1,0,279,0,5,0,0
+16,dad@aol.com,47,0,1,345,1,4,0,0
+17,support@figma.com,53,0,0,387,2,2,0,0
+18,  contact@linkedin.com  ,51,0,1,358,0,4,0,0
+19,  support@amazon.com  ,45,0,1,285,3,1,0,0
+20,noreply@twitter.com,59,1,1,321,2,3,0,0
+21,support@figma.com,30,1,0,300,1,4,0,0
+22,  contact@linkedin.com  ,60,0,0,381,0,2,0,0
+23,boss@work.com,32,0,0,335,3,1,0,0
+24,uncle@email.com,27,1,1,258,3,3,0,0
+25,sarah@company.com,56,1,1,354,0,1,0,0
+26,  noreply@github.com  ,43,0,1,268,1,0,0,0
+27,professor@school.edu,50,0,0,387,1,1,0,0
+28,hr@techcorp.com,28,0,0,247,0,3,0,0
+29,friend@email.com,44,1,0,198,2,1,0,0
+30,sarah@company.com,49,1,0,162,3,4,0,0
+31,  support@figma.com  ,47,0,0,302,0,5,0,0
+32,contact@linkedin.com,51,0,0,257,2,2,0,0
+33,noreply@github.com,35,1,0,321,2,3,0,0
+34,notifications@netflix.com,,0,0,287,1,4,0,0
+35,  friend@email.com  ,37,0,1,222,1,3,0,0
+36,noreply@twitter.com,54,0,1,388,0,1,0,0
+37,  friend@email.com  ,21,0,1,222,1,5,0,0
+38,notifications@netflix.com,55,1,1,381,0,0,0,0
+39,sister@hotmail.com,,1,0,313,2,1,0,0
+40,professor@school.edu,42,0,0,391,1,4,0,0
+41,sarah@company.com,52,1,0,160,2,2,0,0
+42,sarah@company.com,28,0,1,349,3,4,0,0
+43,support@amazon.com,30,0,1,156,1,5,0,0
+44,notifications@netflix.com,41,0,1,190,0,3,0,0
+45,sarah@company.com,29,1,1,228,1,1,0,0
+46,john@gmail.com,40,0,1,239,3,5,0,0
+47,noreply@twitter.com,16,1,0,298,2,0,0,0
+48,mom@yahoo.com,37,1,1,305,0,3,0,0
+49,  admin@website.com  ,17,0,0,243,3,0,0,0
+50,grandma@comcast.net,54,0,1,279,2,5,0,0
+51,hr@techcorp.com,59,0,0,257,3,5,0,0
+52,alerts@slack.com,34,0,1,223,1,3,0,0
+53,admin@website.com,35,1,0,280,3,5,0,0
+54,alerts@slack.com,33,1,0,359,1,5,0,0
+55,dad@aol.com,27,0,0,271,0,3,0,0
+56,hr@techcorp.com,51,1,1,252,1,1,0,0
+57,sister@hotmail.com,21,0,0,355,3,0,0,0
+58,noreply@twitter.com,22,1,1,393,3,4,0,0
+59,support@figma.com,50,0,1,265,2,1,0,0
+60,sister@hotmail.com,48,0,1,262,0,5,0,0
+61,dad@aol.com,36,0,0,188,1,3,0,0
+62,support@amazon.com,19,1,1,256,0,1,0,0
+63,hr@techcorp.com,52,0,1,272,0,2,0,0
+64,dad@aol.com,41,0,1,206,2,3,0,0
+65,  uncle@email.com  ,36,1,0,365,3,1,0,0
+66,colleague@office.com,40,0,0,314,3,1,0,0
+67,  professor@school.edu  ,31,0,1,233,2,3,0,0
+68,friend@email.com,41,0,1,154,0,2,0,0
+69,contact@linkedin.com,,0,0,201,0,4,0,0
+70,support@amazon.com,45,0,1,329,2,2,0,0
+71,alerts@slack.com,60,0,1,177,0,2,0,0
+72,admin@website.com,39,0,0,301,1,0,0,0
+73,dad@aol.com,53,0,1,286,3,5,0,0
+74,  support@microsoft.com  ,56,1,1,177,3,2,0,0
+75,sister@hotmail.com,44,1,0,337,2,4,0,0
+76,noreply@twitter.com,44,1,1,368,1,0,0,0
+77,friend@email.com,30,1,1,157,3,2,0,0
+78,alerts@slack.com,37,1,1,375,2,4,0,0
+79,john@gmail.com,27,1,1,292,1,5,0,0
+80,uncle@email.com,46,0,0,225,1,3,0,0
+81,contact@linkedin.com,52,1,1,340,2,2,0,0
+82,professor@school.edu,31,0,1,180,1,1,0,0
+83,noreply@github.com,32,1,0,363,1,2,0,0
+84,contact@linkedin.com,,0,1,161,0,4,0,0
+85,dad@aol.com,23,1,0,373,0,4,0,0
+86,dad@aol.com,43,0,1,390,3,0,0,0
+87,boss@work.com,19,0,0,188,2,0,0,0
+88,  contact@linkedin.com  ,41,0,1,265,3,2,0,0
+89,admin@website.com,34,0,0,392,1,5,0,0
+90,noreply@github.com,20,0,0,190,0,3,0,0
+91,professor@school.edu,45,0,1,330,2,5,0,0
+92,  professor@school.edu  ,29,0,1,179,1,5,0,0
+93,support@amazon.com,24,0,1,302,2,3,0,0
+94,mom@yahoo.com,34,1,1,262,0,4,0,0
+95,sarah@company.com,35,0,0,208,0,5,0,0
+96,friend@email.com,26,1,1,196,3,5,0,0
+97,uncle@email.com,45,1,1,321,0,1,0,0
+98,notifications@netflix.com,46,1,0,266,0,2,0,0
+99,friend@email.com,40,0,1,255,0,1,0,0
+100,support@figma.com,46,0,0,218,1,2,0,0
+101,professor@school.edu,46,0,0,229,0,4,0,0
+102,  hr@techcorp.com  ,22,0,0,277,2,4,0,0
+103,friend@email.com,45,0,1,291,1,3,0,0
+104,noreply@github.com,47,0,0,220,3,2,0,0
+105,support@figma.com,15,1,1,371,1,3,0,0
+106,noreply@twitter.com,36,1,1,388,2,1,0,0
+107,contact@linkedin.com,29,1,0,231,3,5,0,0
+108,team@startup.io,57,0,1,396,0,1,0,0
+109,support@figma.com,36,1,0,284,3,0,0,0
+110,support@amazon.com,56,0,1,350,2,2,0,0
+111,colleague@office.com,56,1,1,394,2,5,0,0
+112,uncle@email.com,17,0,1,208,0,3,0,0
+113,mom@yahoo.com,60,1,0,327,2,0,0,0
+114,sarah@company.com,18,1,1,187,1,4,0,0
+115,hr@techcorp.com,26,0,1,308,1,3,0,0
+116,  admin@website.com  ,44,1,1,320,0,3,0,0
+117,dad@aol.com,25,1,1,313,3,5,0,0
+118,friend@email.com,34,1,1,177,1,3,0,0
+119,admin@website.com,33,1,0,400,3,2,0,0
+120,john@gmail.com,58,0,1,363,2,1,0,0
+121,colleague@office.com,29,1,0,310,0,5,0,0
+122,  sister@hotmail.com  ,,1,0,173,2,2,0,0
+123,  hr@techcorp.com  ,23,1,1,362,1,2,0,0
+124,uncle@email.com,33,1,0,269,0,1,0,0
+125,contact@linkedin.com,58,1,0,352,3,0,0,0
+126,friend@email.com,44,1,1,360,2,0,0,0
+127,grandma@comcast.net,16,1,0,315,0,5,0,0
+128,professor@school.edu,34,0,0,161,0,2,0,0
+129,  uncle@email.com  ,30,0,1,266,2,5,0,0
+130,noreply@twitter.com,24,0,1,307,3,2,0,0
+131,sarah@company.com,28,0,1,175,2,4,0,0
+132,sister@hotmail.com,40,0,1,173,1,5,0,0
+133,sister@hotmail.com,16,1,0,182,1,0,0,0
+134,noreply@twitter.com,28,0,1,348,1,4,0,0
+135,john@gmail.com,24,1,0,178,0,1,0,0
+136,john@gmail.com,30,0,0,217,0,1,0,0
+137,hr@techcorp.com,19,1,0,265,1,4,0,0
+138,sarah@company.com,57,1,0,165,3,3,0,0
+139,hr@techcorp.com,46,1,0,380,0,2,0,0
+140,  colleague@office.com  ,23,1,1,302,2,3,0,0
+141,support@figma.com,21,0,0,260,3,1,0,0
+142,hr@techcorp.com,44,0,1,259,2,5,0,0
+143,friend@email.com,24,1,0,173,0,0,0,0
+144,  hr@techcorp.com  ,38,0,1,321,0,3,0,0
+145,support@microsoft.com,42,0,1,303,2,2,0,0
+146,mom@yahoo.com,28,1,0,366,0,2,0,0
+147,noreply@twitter.com,32,1,0,305,2,0,0,0
+148,alerts@slack.com,34,1,0,196,1,4,0,0
+149,grandma@comcast.net,24,0,0,341,1,3,0,0
+150,hr@techcorp.com,25,1,0,376,0,1,0,0
+151,alerts@slack.com,18,1,1,319,3,3,0,0
+152,colleague@office.com,32,0,1,260,0,2,0,0
+153,grandma@comcast.net,46,1,0,206,3,4,0,0
+154,  sarah@company.com  ,34,0,1,224,2,0,0,0
+155,john@gmail.com,42,1,0,278,2,0,0,0
+156,team@startup.io,17,1,0,370,2,4,0,0
+157,hr@techcorp.com,60,1,0,253,0,2,0,0
+158,alerts@slack.com,54,1,0,261,0,1,0,0
+159,hr@techcorp.com,48,1,1,206,2,1,0,0
+160,boss@work.com,22,0,1,239,1,1,0,0
+161,  mom@yahoo.com  ,27,0,0,195,3,3,0,0
+162,admin@website.com,43,1,1,188,3,0,0,0
+163,uncle@email.com,34,0,1,279,0,2,0,0
+164,professor@school.edu,18,1,0,315,0,4,0,0
+165,colleague@office.com,44,0,1,382,1,2,0,0
+166,colleague@office.com,24,1,0,357,2,5,0,0
+167,boss@work.com,,1,1,284,1,2,0,0
+168,support@microsoft.com,39,1,0,352,2,0,0,0
+169,  notifications@netflix.com  ,58,1,0,235,0,4,0,0
+170,  grandma@comcast.net  ,37,1,0,302,0,2,0,0
+171,noreply@twitter.com,36,0,1,280,2,0,0,0
+172,support@microsoft.com,28,1,0,207,1,1,0,0
+173,boss@work.com,21,0,1,374,1,4,0,0
+174,  team@startup.io  ,26,0,1,161,3,2,0,0
+175,grandma@comcast.net,43,1,0,286,1,2,0,0
+176,uncle@email.com,27,1,1,346,2,3,0,0
+177,support@figma.com,25,0,1,163,3,2,0,0
+178,noreply@twitter.com,60,0,1,171,1,2,0,0
+179,professor@school.edu,24,0,0,359,3,2,0,0
+180,john@gmail.com,40,0,1,170,2,1,0,0
+181,john@gmail.com,21,1,0,185,0,2,0,0
+182,uncle@email.com,23,1,1,307,0,0,0,0
+183,john@gmail.com,24,1,0,348,2,1,0,0
+184,  dad@aol.com  ,30,1,0,178,3,4,0,0
+185,  noreply@twitter.com  ,47,0,1,259,0,4,0,0
+186,support@microsoft.com,41,0,1,167,0,3,0,0
+187,  uncle@email.com  ,39,1,0,241,0,2,0,0
+188,contact@linkedin.com,55,1,0,161,2,4,0,0
+189,notifications@netflix.com,26,1,1,311,1,1,0,0
+190,boss@work.com,,0,0,352,1,0,0,0
+191,notifications@netflix.com,47,1,1,159,1,2,0,0
+192,support@microsoft.com,18,1,1,181,2,3,0,0
+193,team@startup.io,39,0,1,327,3,2,0,0
+194,support@figma.com,20,0,1,304,1,4,0,0
+195,dad@aol.com,20,1,1,264,3,1,0,0
+196,professor@school.edu,17,1,1,220,0,0,0,0
+197,grandma@comcast.net,38,0,0,186,3,0,0,0
+198,  support@amazon.com  ,56,1,0,304,1,5,0,0
+199,professor@school.edu,38,0,0,285,2,3,0,0
+200,notifications@netflix.com,30,0,0,277,3,4,0,0
+201,mom@yahoo.com,31,0,1,327,3,1,0,0
+202,  mom@yahoo.com  ,19,1,0,357,2,5,0,0
+203,support@microsoft.com,50,1,0,332,1,2,0,0
+204,support@figma.com,27,0,1,156,2,4,0,0
+205,admin@website.com,50,0,0,229,3,5,0,0
+206,uncle@email.com,41,0,0,398,2,5,0,0
+207,boss@work.com,58,0,0,346,1,3,0,0
+208,support@figma.com,18,0,1,192,1,2,0,0
+209,contact@linkedin.com,48,0,1,200,2,1,0,0
+210,sister@hotmail.com,49,0,0,193,2,4,0,0
+211,sarah@company.com,16,1,0,346,3,4,0,0
+212,  sister@hotmail.com  ,55,1,1,212,3,2,0,0
+213,  professor@school.edu  ,18,1,1,268,1,2,0,0
+214,  colleague@office.com  ,60,1,1,183,2,4,0,0
+215,  noreply@twitter.com  ,30,1,1,213,1,0,0,0
+216,sarah@company.com,39,1,0,396,1,2,0,0
+217,admin@website.com,27,1,1,277,2,3,0,0
+218,  john@gmail.com  ,40,0,0,299,2,0,0,0
+219,sarah@company.com,53,1,1,287,0,0,0,0
+220,  hr@techcorp.com  ,31,1,1,161,3,0,0,0
+221,admin@website.com,38,0,1,279,3,4,0,0
+222,friend@email.com,54,0,0,399,0,3,0,0
+223,support@microsoft.com,36,1,0,200,3,4,0,0
+224,  sarah@company.com  ,23,1,1,188,1,2,0,0
+225,colleague@office.com,40,1,1,279,3,5,0,0
+226,admin@website.com,16,0,1,299,2,5,0,0
+227,  sister@hotmail.com  ,45,0,0,299,3,1,0,0
+228,support@figma.com,54,1,0,360,1,0,0,0
+229,admin@website.com,22,1,1,257,1,3,0,0
+230,noreply@github.com,54,0,0,282,1,4,0,0
+231,notifications@netflix.com,45,1,0,267,2,4,0,0
+232,support@microsoft.com,58,1,1,199,1,2,0,0
+233,noreply@twitter.com,34,0,1,231,3,2,0,0
+234,noreply@twitter.com,32,1,1,359,2,1,0,0
+235,  dad@aol.com  ,60,1,1,341,3,1,0,0
+236,noreply@github.com,32,1,0,177,1,1,0,0
+237,sarah@company.com,48,0,0,175,3,2,0,0
+238,  uncle@email.com  ,,0,1,317,3,3,0,0
+239,  sister@hotmail.com  ,33,0,0,316,1,4,0,0
+240,sarah@company.com,26,0,0,364,3,3,0,0
+241,alerts@slack.com,33,0,1,295,0,2,0,0
+242,dad@aol.com,56,1,0,367,3,2,0,0
+243,noreply@github.com,36,1,1,333,1,0,0,0
+244,notifications@netflix.com,51,0,0,306,3,3,0,0
+245,support@figma.com,40,0,0,272,2,1,0,0
+246,john@gmail.com,30,1,1,227,0,2,0,0
+247,sister@hotmail.com,30,0,1,228,1,3,0,0
+248,grandma@comcast.net,60,0,1,244,1,1,0,0
+249,support@amazon.com,44,1,1,329,3,4,0,0
+250,grandma@comcast.net,30,0,1,285,2,0,0,0
+251,  GUARANTEED@PROFIT.COM  ,90,1,0,93,7,10,1,1
+252,exclusive@deal.net,83,1,0,94,12,9,1,1
+253,amazing@deal.net,58,1,1,78,5,16,1,1
+254,click@promo.net,74,1,1,52,5,19,1,1
+255,special@offer.net,57,1,0,89,5,9,1,1
+256,  INSTANT@APPROVAL.NET  ,81,1,0,73,10,14,1,1
+257,click@promo.net,79,1,0,64,6,10,1,1
+258,unbeatable@price.net,63,1,0,20,5,12,1,1
+259,click@promo.net,89,1,1,49,8,15,1,1
+260,  LIMITED@OFFER.COM  ,67,1,0,24,11,17,1,1
+261,congratulations@lucky.net,56,1,0,32,5,15,1,1
+262,risk@free.net,58,1,0,71,12,11,1,1
+263,unbeatable@price.net,58,1,1,49,10,17,1,1
+264,risk@free.net,75,1,0,86,8,14,1,1
+265,profit@invest.net,90,1,0,100,11,16,1,1
+266,  INSTANT@APPROVAL.NET  ,77,1,1,87,10,19,1,1
+267,confirm@account.net,74,1,1,50,8,12,1,1
+268,  UPDATE@REQUIRED.NET  ,84,1,1,73,7,14,1,1
+269,free@gift.com,76,1,1,67,6,16,1,1
+270,respond@quickly.net,58,1,0,29,8,20,1,1
+271,congratulations@lucky.net,90,1,0,62,9,8,1,1
+272,special@offer.net,62,1,1,51,8,14,1,1
+273,free@gift.com,73,1,1,59,9,13,1,1
+274,amazing@deal.net,84,1,1,60,8,13,1,1
+275,exclusive@deal.net,91,1,0,22,9,16,1,1
+276,guaranteed@profit.com,81,1,0,62,8,14,1,1
+277,guaranteed@profit.com,86,1,1,52,12,19,1,1
+278,urgent@alert.net,84,1,1,41,7,19,1,1
+279,unbeatable@price.net,89,1,0,87,5,9,1,1
+280,  VALIDATE@ACCOUNT.NET  ,55,1,0,28,7,8,1,1
+281,special@offer.net,78,1,1,82,5,8,1,1
+282,unbeatable@price.net,,1,1,88,9,8,1,1
+283,amazing@deal.net,82,1,0,33,6,16,1,1
+284,claim@prize.net,94,1,1,54,11,9,1,1
+285,limited@offer.com,84,1,0,58,6,18,1,1
+286,urgent@alert.net,60,1,1,90,12,8,1,1
+287,  URGENT@ALERT.NET  ,65,1,1,62,6,16,1,1
+288,cash@casino.com,91,1,0,29,9,16,1,1
+289,guaranteed@profit.com,66,1,1,22,8,17,1,1
+290,claim@prize.net,80,1,1,40,8,17,1,1
+291,final@notice.net,89,1,0,30,10,8,1,1
+292,verify@secure.net,59,1,1,61,5,18,1,1
+293,bonus@money.net,83,1,1,90,11,14,1,1
+294,act@now.net,79,1,1,51,6,9,1,1
+295,  BONUS@MONEY.NET  ,95,1,1,60,10,9,1,1
+296,  URGENT@BANKING.NET  ,74,1,1,33,7,9,1,1
+297,act@now.net,90,1,1,33,5,9,1,1
+298,limited@offer.com,93,1,1,69,5,12,1,1
+299,confirm@account.net,60,1,0,93,7,18,1,1
+300,  FINAL@NOTICE.NET  ,72,1,1,38,6,10,1,1
+301,confirm@account.net,74,1,0,66,9,11,1,1
+302,respond@quickly.net,93,1,1,33,7,12,1,1
+303,winner@lottery.net,76,1,1,62,12,13,1,1
+304,confirm@account.net,93,1,1,97,8,15,1,1
+305,  EXCLUSIVE@DEAL.NET  ,80,1,1,82,8,13,1,1
+306,final@notice.net,80,1,0,95,7,18,1,1
+307,congratulations@lucky.net,84,1,0,76,9,19,1,1
+308,urgent@banking.net,81,1,0,58,8,12,1,1
+309,  VALIDATE@ACCOUNT.NET  ,82,1,0,77,12,17,1,1
+310,final@notice.net,81,1,1,88,6,9,1,1
+311,congratulations@lucky.net,77,1,0,92,11,20,1,1
+312,exclusive@deal.net,82,1,0,53,8,16,1,1
+313,respond@quickly.net,92,1,0,77,10,14,1,1
+314,click@promo.net,92,1,0,64,5,15,1,1
+315,verify@secure.net,60,1,0,64,9,13,1,1
+316,click@promo.net,88,1,1,32,12,19,1,1
+317,update@required.net,59,1,0,22,10,18,1,1
+318,verify@secure.net,65,1,0,86,7,16,1,1
+319,act@now.net,82,1,0,71,7,10,1,1
+320,urgent@alert.net,,1,0,77,11,14,1,1
+321,winner@lottery.net,68,1,0,93,6,20,1,1
+322,  UNBEATABLE@PRICE.NET  ,75,1,0,53,12,16,1,1
+323,urgent@alert.net,79,1,0,64,10,15,1,1
+324,  RISK@FREE.NET  ,74,1,0,37,10,9,1,1
+325,free@gift.com,66,1,0,85,11,14,1,1
+326,  RISK@FREE.NET  ,79,1,1,88,7,16,1,1
+327,act@now.net,63,1,1,99,5,13,1,1
+328,winner@lottery.net,67,1,1,72,12,14,1,1
+329,update@required.net,86,1,0,48,9,8,1,1
+330,bonus@money.net,73,1,1,92,12,16,1,1
+331,  AMAZING@DEAL.NET  ,62,1,1,89,5,20,1,1
+332,respond@quickly.net,68,1,0,51,9,8,1,1
+333,click@promo.net,60,1,0,50,8,20,1,1
+334,respond@quickly.net,77,1,1,41,7,20,1,1
+335,special@offer.net,58,1,1,96,7,13,1,1
+336,update@required.net,91,1,0,37,11,8,1,1
+337,bonus@money.net,63,1,0,51,7,19,1,1
+338,exclusive@deal.net,80,1,1,100,11,14,1,1
+339,  CLICK@PROMO.NET  ,60,1,1,67,12,15,1,1
+340,exclusive@deal.net,60,1,1,65,6,20,1,1
+341,unbeatable@price.net,82,1,1,54,10,12,1,1
+342,exclusive@deal.net,63,1,1,63,5,8,1,1
+343,verify@secure.net,,1,0,76,12,8,1,1
+344,confirm@account.net,63,1,1,40,9,9,1,1
+345,urgent@alert.net,60,1,0,26,11,18,1,1
+346,profit@invest.net,69,1,0,32,5,11,1,1
+347,  INSTANT@APPROVAL.NET  ,92,1,1,21,5,19,1,1
+348,exclusive@deal.net,82,1,1,29,8,14,1,1
+349,urgent@banking.net,61,1,1,58,7,14,1,1
+350,congratulations@lucky.net,63,1,0,28,5,17,1,1
+351,  URGENT@ALERT.NET  ,77,1,0,72,12,11,1,1
+352,urgent@banking.net,63,1,1,64,11,13,1,1
+353,  CONGRATULATIONS@WINNER.NET  ,72,1,0,90,9,20,1,1
+354,  UPDATE@REQUIRED.NET  ,74,1,0,70,9,18,1,1
+355,cash@casino.com,70,1,0,50,12,18,1,1
+356,  RISK@FREE.NET  ,55,1,1,36,11,17,1,1
+357,confirm@account.net,66,1,0,22,6,8,1,1
+358,bonus@money.net,58,1,1,84,9,18,1,1
+359,update@required.net,81,1,1,30,7,12,1,1
+360,urgent@banking.net,87,1,0,88,10,14,1,1
+361,guaranteed@profit.com,59,1,1,50,5,11,1,1
+362,urgent@banking.net,62,1,0,59,7,9,1,1
+363,winner@lottery.net,55,1,1,86,9,10,1,1
+364,  LIMITED@OFFER.COM  ,72,1,0,23,10,20,1,1
+365,confirm@account.net,59,1,0,83,12,16,1,1
+366,  LIMITED@OFFER.COM  ,91,1,0,52,6,17,1,1
+367,validate@account.net,69,1,0,25,5,11,1,1
+368,cash@casino.com,79,1,0,24,11,11,1,1
+369,exclusive@deal.net,75,1,0,93,10,9,1,1
+370,amazing@deal.net,58,1,0,71,6,15,1,1
+371,profit@invest.net,74,1,1,21,10,11,1,1
+372,profit@invest.net,74,1,0,79,10,17,1,1
+373,instant@approval.net,67,1,0,39,5,14,1,1
+374,winner@lottery.net,77,1,0,62,5,20,1,1
+375,validate@account.net,74,1,0,73,12,8,1,1
+376,claim@prize.net,,1,0,86,11,19,1,1
+377,limited@offer.com,60,1,0,70,6,17,1,1
+378,  GUARANTEED@PROFIT.COM  ,63,1,1,60,11,19,1,1
+379,respond@quickly.net,83,1,0,45,7,20,1,1
+380,congratulations@lucky.net,64,1,1,79,10,14,1,1
+381,verify@secure.net,68,1,1,53,6,9,1,1
+382,act@now.net,74,1,0,47,10,10,1,1
+383,urgent@banking.net,77,1,0,58,9,10,1,1
+384,winner@lottery.net,83,1,0,32,12,9,1,1
+385,congratulations@winner.net,,1,0,36,8,14,1,1
+386,limited@offer.com,60,1,1,29,5,9,1,1
+387,special@offer.net,83,1,0,62,6,8,1,1
+388,  CLICK@PROMO.NET  ,91,1,1,83,5,14,1,1
+389,validate@account.net,77,1,0,55,9,15,1,1
+390,  CLAIM@PRIZE.NET  ,94,1,1,83,11,16,1,1
+391,  INSTANT@APPROVAL.NET  ,72,1,1,45,8,18,1,1
+392,congratulations@winner.net,56,1,1,81,12,13,1,1
+393,guaranteed@profit.com,79,1,0,60,8,8,1,1
+394,congratulations@winner.net,58,1,1,87,10,20,1,1
+395,guaranteed@profit.com,65,1,0,54,5,20,1,1
+396,free@gift.com,79,1,0,42,8,17,1,1
+397,exclusive@deal.net,77,1,0,65,7,17,1,1
+398,special@offer.net,86,1,0,82,5,9,1,1
+399,cash@casino.com,,1,1,20,10,17,1,1
+400,special@offer.net,76,1,1,27,5,10,1,1
+401,guaranteed@profit.com,64,1,1,29,10,19,1,1
+402,validate@account.net,61,1,1,37,7,19,1,1
+403,confirm@account.net,86,1,0,91,10,11,1,1
+404,validate@account.net,66,1,1,36,7,19,1,1
+405,winner@lottery.net,91,1,0,43,10,20,1,1
+406,risk@free.net,91,1,1,38,10,19,1,1
+407,urgent@banking.net,75,1,0,62,12,8,1,1
+408,bonus@money.net,59,1,0,20,5,14,1,1
+409,click@promo.net,65,1,1,68,10,16,1,1
+410,  FINAL@NOTICE.NET  ,85,1,0,40,12,9,1,1
+411,congratulations@winner.net,,1,1,33,6,13,1,1
+412,act@now.net,65,1,0,63,12,19,1,1
+413,winner@lottery.net,65,1,1,40,5,9,1,1
+414,exclusive@deal.net,67,1,1,56,9,11,1,1
+415,  VERIFY@SECURE.NET  ,91,1,1,39,5,13,1,1
+416,winner@lottery.net,73,1,1,45,6,8,1,1
+417,  SPECIAL@OFFER.NET  ,73,1,1,34,9,20,1,1
+418,final@notice.net,71,1,1,43,10,14,1,1
+419,  LIMITED@OFFER.COM  ,57,1,1,53,8,12,1,1
+420,  GUARANTEED@PROFIT.COM  ,61,1,1,89,11,20,1,1
+421,guaranteed@profit.com,58,1,1,88,12,17,1,1
+422,free@gift.com,60,1,0,84,7,9,1,1
+423,congratulations@lucky.net,65,1,0,36,5,14,1,1
+424,urgent@banking.net,82,1,0,96,9,13,1,1
+425,respond@quickly.net,59,1,1,90,10,12,1,1
+426,amazing@deal.net,55,1,1,34,11,10,1,1
+427,claim@prize.net,92,1,0,33,6,20,1,1
+428,profit@invest.net,77,1,1,69,12,17,1,1
+429,risk@free.net,66,1,0,99,11,8,1,1
+430,final@notice.net,76,1,0,80,9,13,1,1
+431,winner@lottery.net,74,1,1,32,8,10,1,1
+432,profit@invest.net,83,1,1,54,11,17,1,1
+433,  URGENT@ALERT.NET  ,83,1,1,82,10,8,1,1
+434,amazing@deal.net,59,1,1,37,5,10,1,1
+435,special@offer.net,67,1,0,24,12,8,1,1
+436,limited@offer.com,72,1,1,84,11,18,1,1
+437,verify@secure.net,70,1,1,42,12,17,1,1
+438,unbeatable@price.net,65,1,1,31,9,8,1,1
+439,  FINAL@NOTICE.NET  ,91,1,0,48,8,18,1,1
+440,special@offer.net,81,1,0,80,7,18,1,1
+441,act@now.net,55,1,1,55,11,14,1,1
+442,limited@offer.com,68,1,1,94,6,8,1,1
+443,amazing@deal.net,78,1,1,58,6,15,1,1
+444,urgent@banking.net,72,1,1,53,9,11,1,1
+445,claim@prize.net,70,1,1,60,7,19,1,1
+446,winner@lottery.net,73,1,1,71,11,19,1,1
+447,cash@casino.com,91,1,1,48,12,18,1,1
+448,limited@offer.com,65,1,0,57,6,15,1,1
+449,claim@prize.net,90,1,0,62,6,11,1,1
+450,limited@offer.com,74,1,1,67,9,17,1,1
+451,profit@invest.net,62,1,0,80,8,16,1,1
+452,verify@secure.net,79,1,1,26,7,10,1,1
+453,special@offer.net,91,1,1,38,10,19,1,1
+454,act@now.net,86,1,0,60,5,8,1,1
+455,click@promo.net,65,1,0,82,6,10,1,1
+456,risk@free.net,82,1,1,69,5,8,1,1
+457,  UNBEATABLE@PRICE.NET  ,78,1,1,87,8,8,1,1
+458,  VALIDATE@ACCOUNT.NET  ,70,1,1,59,7,9,1,1
+459,final@notice.net,74,1,0,58,9,15,1,1
+460,respond@quickly.net,88,1,0,63,12,13,1,1
+461,  CONGRATULATIONS@LUCKY.NET  ,,1,0,36,8,19,1,1
+462,winner@lottery.net,65,1,0,68,9,20,1,1
+463,unbeatable@price.net,93,1,0,22,5,19,1,1
+464,verify@secure.net,79,1,1,80,7,11,1,1
+465,update@required.net,55,1,0,86,9,17,1,1
+466,risk@free.net,81,1,0,85,6,12,1,1
+467,verify@secure.net,86,1,0,53,8,13,1,1
+468,update@required.net,,1,1,46,12,13,1,1
+469,  FREE@GIFT.COM  ,60,1,1,39,6,20,1,1
+470,  AMAZING@DEAL.NET  ,61,1,0,78,9,12,1,1
+471,  CLICK@PROMO.NET  ,66,1,1,66,10,14,1,1
+472,  RESPOND@QUICKLY.NET  ,,1,0,41,10,13,1,1
+473,click@promo.net,72,1,0,67,10,10,1,1
+474,verify@secure.net,84,1,1,81,11,18,1,1
+475,  CONGRATULATIONS@WINNER.NET  ,63,1,0,40,6,14,1,1
+476,guaranteed@profit.com,91,1,0,98,11,20,1,1
+477,limited@offer.com,63,1,1,34,11,15,1,1
+478,  CASH@CASINO.COM  ,,1,0,63,6,14,1,1
+479,validate@account.net,85,1,1,39,5,8,1,1
+480,urgent@alert.net,87,1,1,41,6,20,1,1
+481,instant@approval.net,76,1,0,84,8,16,1,1
+482,urgent@alert.net,70,1,1,93,12,9,1,1
+483,instant@approval.net,62,1,0,33,11,14,1,1
+484,cash@casino.com,55,1,1,85,8,18,1,1
+485,validate@account.net,76,1,0,48,12,13,1,1
+486,unbeatable@price.net,93,1,1,77,6,9,1,1
+487,congratulations@lucky.net,55,1,1,90,10,19,1,1
+488,  VERIFY@SECURE.NET  ,65,1,1,33,9,17,1,1
+489,  SPECIAL@OFFER.NET  ,80,1,0,63,6,20,1,1
+490,  CONFIRM@ACCOUNT.NET  ,95,1,0,77,12,18,1,1
+491,guaranteed@profit.com,63,1,0,87,5,16,1,1
+492,confirm@account.net,85,1,0,94,7,19,1,1
+493,  CLAIM@PRIZE.NET  ,93,1,1,84,11,14,1,1
+494,risk@free.net,70,1,1,57,12,20,1,1
+495,  CLAIM@PRIZE.NET  ,93,1,1,90,10,19,1,1
+496,respond@quickly.net,95,1,0,99,9,18,1,1
+497,limited@offer.com,63,1,0,84,10,19,1,1
+498,verify@secure.net,90,1,1,88,9,14,1,1
+499,  CONGRATULATIONS@WINNER.NET  ,,1,0,26,5,11,1,1
+500,bonus@money.net,65,1,1,38,5,19,1,1
